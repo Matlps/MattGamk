@@ -1,4 +1,4 @@
-BEM VINDO AO MEU PERFIL!
+Bem-vindo(a) ao meu perfil 😁
 
  <div>
    <a href="https://github.com/MattGamk">
